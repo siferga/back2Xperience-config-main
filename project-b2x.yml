@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+project-b2x:
+  name: "Amaal project "
+  description: "description client 1"
+  client: "client 1"
+  
